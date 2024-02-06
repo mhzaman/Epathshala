@@ -32,5 +32,5 @@
 29. Publish course as teacher
 
 SRS 
-https://github.com/asm-nasim-khan/Epathshala/blob/main/Epathshala_SRS_Document.pdf
+https://github.com/mhzaman/Epathshala/blob/main/Epathshala-main/Epathshala_SRS_Document.pdf
  
